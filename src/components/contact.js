@@ -25,7 +25,7 @@ function Contact() {
                         <Container>
                             <h4 style={{color: "#F06543"}}>Contact Info</h4>
                             <p>
-                                <a href="mailto:priyaravi23@gmail.com">
+                                <a href="mailto:khiljiasad2@gmail.com">
                                     <span className="pr-3">
                                         <FaEnvelope />
                                     </span>
