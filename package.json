@@ -1,5 +1,5 @@
 {
-  "homepage": "https://priyaravi23.github.io/react-portfolio",
+  "homepage": "http://asad-khilji.github.io/professional-portfolio",
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -43,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.2.3"
   }
 }
