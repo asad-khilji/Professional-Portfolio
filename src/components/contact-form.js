@@ -44,7 +44,7 @@ function ContactForm() {
         setFormMessage("Message sent!");
       }, function(error) {
         console.log(error.text);
-        setFormMessage("Your message couldn't be sent. Please email Priya directly at priyaravi23@gmail.com");
+        setFormMessage("Your message couldn't be sent. Please email Asad directly at khiljiasad2@gmail.com");
       });
   }
 
