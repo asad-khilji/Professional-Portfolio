@@ -38,8 +38,8 @@
 ## GitHub Repo
 * https://github.com/asad-khilji/Professional-Portfolio
 
-## Heroku App
-* 
+## Deployed Application
+* https://asad-khilji.github.io/professional-portfolio
 
 ## Screenshot
 ![Screenshot.jpg](https://github.com/asad-khilji/Professional-Portfolio/blob/main/src/assets/images/Screenshot.jpg);
