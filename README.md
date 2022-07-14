@@ -36,13 +36,13 @@
 * Made By Asad Khilji
 
 ## GitHub Repo
-* 
+* https://github.com/asad-khilji/Professional-Portfolio
 
 ## Heroku App
 * 
 
 ## Screenshot
-![Screenshot.jpg]();
+![Screenshot.jpg](https://github.com/asad-khilji/Professional-Portfolio/blob/main/src/assets/images/Screenshot.jpg);
 
 
 
