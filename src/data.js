@@ -112,7 +112,7 @@ export default [
         "image": FullStack,
         "github": "https://github.com/paulooliveira152012/groupProject2",
         "deploy": "https://radiant-sierra-52768.herokuapp.com/"
-    }
+    },
 
     {
         "id": 15,
