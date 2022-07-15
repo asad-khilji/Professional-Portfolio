@@ -20,7 +20,7 @@ const Resume = () => {
                     <div className='col'>
                         <div className='card'>
                             <div className="header">
-                                <h3>Asad Khilji</h3>
+                                <h3>Mohammad Asad Khilji</h3>
                                 <p>8 Sergeant Ct Budd Lake, NJ 07828 - (201) 937-9699 - khiljiasad2@gmail.com</p>
                             </div>
 

@@ -20,7 +20,7 @@ const About = () => {
                             <div className='card-body'>
                                 <div className="row">
                                     <p className='p-about'>
-                                        My Name is Asad Khilji and I am a Software Engineer. I have skills in several programming languages such as HTML, CSS, JavaScript, Node.js, MySQL, and React.
+                                        My Name is Mohammad Asad Khilji and I am a Software Engineer. I have skills in several programming languages such as HTML, CSS, JavaScript, Node.js, MySQL, and React.
                                     </p>
                                 </div>
                             </div>
