@@ -12,6 +12,7 @@ import CodingQuiz from './assets/images/codingquiz.png';
 import Jesus from './assets/images/jesus.png';
 import FridaySermon from './assets/images/faith.png';
 import MernStack from './assets/images/mern.png';
+import Flipbook from './assets/images/flipbook.png';
 
 export default [
     {
@@ -111,5 +112,13 @@ export default [
         "image": FullStack,
         "github": "https://github.com/paulooliveira152012/groupProject2",
         "deploy": "https://radiant-sierra-52768.herokuapp.com/"
+    }
+
+    {
+        "id": 15,
+        "name": "Flipbook",
+        "image": Flipbook,
+        "github": "https://github.com/asad-khilji/Flipbook",
+        "deploy": "https://asad-khilji.github.io/Flipbook/"
     }
 ]
