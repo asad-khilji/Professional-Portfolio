@@ -10,10 +10,12 @@ import ParticlesBg from "particles-bg";
 // https://reactjsexample.com/react-particles-animation-background-component/
 
 ReactDOM.render(
-    <Router>
+    <React.StrictMode>
         <App />
-        <ParticlesBg type="square" bg={true}/>
-    </Router>,
+{/*   ParticlesBg type="square" bg={true}/> */}
+    </React.StrictMode>,
+
+
     document.getElementById('root')
 );
 
