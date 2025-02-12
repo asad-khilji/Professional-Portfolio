@@ -369,6 +369,13 @@
     background: var(--secondary-color);
     color: var(--primary-color);
   }
+
+  .trainer-1 {
+    margin: 20px;
+    flex: 1;
+    background: white;
+    color: var(--primary-color);
+  }
   
   .trainers a {
     text-decoration: none;
