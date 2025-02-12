@@ -250,6 +250,19 @@
     content: "";
   }
   /* HERO STYLES END */
+
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+  }
+
+  .col-3 {
+    flex-basis: 33.3%;
+    padding: 10px;
+    line-height: 2;
+  }
   
   
   /* SECTION TITLE STYLES START */
@@ -632,6 +645,10 @@
     .trainer-bio h3, .trainer-bio h4 {
       display: block;
     }
+
+    .col-3 {
+      flex-basis: 50%;
+    }
   }
 
   @media only screen and (max-width: 600px) {
@@ -672,5 +689,9 @@
   
     .contact-form {
       order: 3;
+    }
+
+    .col-3 {
+      flex-basis: 100%;
     }
   }
